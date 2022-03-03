@@ -1,3 +1,6 @@
+//When I wrote this code, I didn´t know function such as reverse, sort, map.
+//I decided to share this code becouse, even with little knowledge, I got this challenge.
+
 function palindrome(str) {
   const alphanumeric = /[A-Za-z0-9]/g;
   let strAlphanumeric = str.match(alphanumeric);
