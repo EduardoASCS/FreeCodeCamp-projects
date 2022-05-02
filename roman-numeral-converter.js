@@ -4,8 +4,8 @@ function convertToRoman(num) {
 
 
     if (string.length > 3) {
-    let milhar = '';
-    for (let i = 0 ; i < string.length - 3; i++) {
+        let milhar = '';
+        for (let i = 0 ; i < string.length - 3; i++) {
         milhar += string[i];               
     }
 
