@@ -1,3 +1,5 @@
+// In cryptography, a Caesar cipher is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
+
 function rot13(str) {
     
     let array = str.split("");
